@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//mehmet-akif.github.io/Rest-API/static/css/main.eafd1cfc.css",
+    "main.js": "/https//mehmet-akif.github.io/Rest-API/static/js/main.b5ad8a3b.js",
+    "static/js/787.0e91e5de.chunk.js": "/https//mehmet-akif.github.io/Rest-API/static/js/787.0e91e5de.chunk.js",
+    "index.html": "/https//mehmet-akif.github.io/Rest-API/index.html",
+    "main.eafd1cfc.css.map": "/https//mehmet-akif.github.io/Rest-API/static/css/main.eafd1cfc.css.map",
+    "main.b5ad8a3b.js.map": "/https//mehmet-akif.github.io/Rest-API/static/js/main.b5ad8a3b.js.map",
+    "787.0e91e5de.chunk.js.map": "/https//mehmet-akif.github.io/Rest-API/static/js/787.0e91e5de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eafd1cfc.css",
+    "static/js/main.b5ad8a3b.js"
+  ]
+}
